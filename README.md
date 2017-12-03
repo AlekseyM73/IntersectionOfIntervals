@@ -17,3 +17,4 @@ Task 2
 ```sh
 HashSet<Range<Double>> IntersectionOfIntervals (new MultiplicitiesLoader(String filePath)).setOfIntervals();
 ```
+or run Main.main();
